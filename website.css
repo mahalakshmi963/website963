@@ -1,0 +1,281 @@
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+     width: 100%;
+    
+    
+    
+}
+.ssp{
+    display: flex;
+    margin-left: 70%;
+   
+  
+}
+h1{
+    margin-left: 65%;
+}
+.box{
+   
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+      }
+   
+.two,.one{
+   
+    border: 1px solid;
+    width: 300PX;
+    background-color: blue;
+    color: aliceblue;
+   
+}
+b{
+   margin-left: 30%;
+   font-size: larger;
+}
+
+.fr{
+    border: 1px solid;
+    width: 100%;
+}
+.total{
+    display: flex;
+    justify-content: space-around;
+
+}
+.shiv{
+    border: 1px solid;
+    width: 40%;
+    background-color: aliceblue;
+}
+.only{
+    width: 35%;
+}
+.check{
+    display: flex;
+    margin-left: 10%;
+}
+.cal a{
+    text-decoration: none;
+}
+.back{
+    background-image:url(vande-bharat.jpg);
+    background-repeat: no-repeat;
+}
+.under{
+    border: 1px solid;
+    width: 40%;
+    background-color: aliceblue;
+    margin-top: -1.5%;
+    border-color: black;
+
+}
+.under,.der{
+    color:indigo;
+    font-size: small;
+   
+}
+.under,large{
+    color: rgb(25, 98, 233);
+   
+}
+.under,small{
+    color: brown;
+}
+.htt{
+    margin-left: 35%;
+}
+.un{
+    font-size: 90%;
+}
+.der{
+    margin-left: 10%;
+}
+.haa{
+    margin-left: 40%;
+}
+.pik {
+    width: 40px;
+    height: 40px;
+    border: 1px solid;
+  border-radius: 40px;
+    margin-top: 20px;
+    text-align: center;
+}
+.flight{
+   
+    margin-top: 10px;
+}
+.pik:hover{
+    background-color: blue;
+    color: blanchedalmond;
+}
+.pic{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img{
+    margin-left: 15%;
+}
+iframe{
+    margin-left: 25%;
+}
+.h{
+   margin-right: 35%;
+}
+.maha{
+    border: 1px solid;
+    width: 30%;
+    height: 280%;
+    text-align: center;
+    background-color: aliceblue;
+}
+.arun{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.srv{
+    border: 1px solid;
+    background-color:rgb(221, 216, 216);
+ 
+}
+.icon{
+    border: 1px solid;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+ .icon:hover{
+    background-color:midnightblue;
+    color: aliceblue;
+  }
+.ico{
+     border: 1px solid;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+.ico:hover{
+    background-color: aquamarine;
+    color: forestgreen;
+}
+.icone{
+     border: 1px solid;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+.icone:hover{
+    background-color:crimson;
+    color: aliceblue;
+}
+.iconi{
+     border: 1px solid;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+.iconi:hover{
+    background-color: darkcyan;
+    color: aliceblue;
+}
+.icony{
+     border: 1px solid;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+.icony:hover{
+    background-color: cornflowerblue;
+    color: aliceblue;
+}
+.icona{
+    border: 1px solid;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+.icona:hover{
+    background-color: deepskyblue;
+    color: aliceblue;
+}
+.ic{
+    border: 1px solid;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+.ic:hover{
+    background-color: dodgerblue;
+    color: aliceblue;
+}
+.i{
+     border: 1px solid;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+.i:hover{
+    background-color: brown;
+    color: aliceblue;
+}
+.eye{
+    margin-top: 20%;
+  }
+ 
+  .sai{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid;
+    height: 45px;
+    background-color: darkslateblue;
+    color: aliceblue;
+    margin-top: -15%;
+
+  }
+  .con{
+    display: flex;
+    margin-top: 1%;
+  }
+  .sm{
+    margin-top: 1%;
+    color: aliceblue;
+  }
+  .op{
+    width: 35%;
+    background-color:hotpink;
+    color: antiquewhite;
+    
+  }
+  .lak{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid;
+    background-color: navy;
+    margin-top: -1.5%;
+  }
+  .la{
+    margin-left: 10%;
+  }
+  .la,.op{
+width: 75%;
+
+  }
+
+
+
+   
+
+
